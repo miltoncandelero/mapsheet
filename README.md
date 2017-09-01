@@ -4,6 +4,9 @@ Essentially Mapsheet is an library that turns an spritesheet (or an image atlas)
 
 _(Mapsheet is my implementation of the [Spritesheet](https://github.com/skylarkstudio/spritesheet) but taking advantage of OpenFL's Tilemap class.)_
 
+## Demo
+
+I owe you a demo. <3
 
 ## Installation
 
@@ -15,7 +18,12 @@ To include Tilemap in an OpenFL project, add `<haxelib name="tilemap" />` to you
 
 ## Usage
 
-Simple as 1,2,3:
+First make sure you have all your imports in place:
+```haxe
+import mapsheet.Animation;
+import mapsheet.Mapsheet;
+import mapsheet.data.Behavior;
+```
 
 Load your spritesheet:
 ```haxe
