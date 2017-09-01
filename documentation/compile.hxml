@@ -1,0 +1,6 @@
+-swf all.swf
+--no-output
+-xml ../haxedoc.xml
+-cp ../
+-lib openfl
+ImportAll

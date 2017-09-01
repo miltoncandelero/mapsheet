@@ -1,0 +1,11 @@
+{
+  "name": "mapsheet",
+  "url" : "https://github.com/miltoncandelero/mapsheet",
+  "license": "MIT",
+  "tags": ["tilemap", "spritesheet"],
+  "description": "An implementation of spritesheet animation based on OpenFL's Tilemap",
+  "version": "1.0.0",
+  "releasenote": "Initial release, everything is working correctly.",
+  "contributors": ["miltoncandelero"],
+  "dependencies": {}
+}
