@@ -14,7 +14,7 @@ To install a release build:
 	
 	haxelib install mapsheet
 
-To include Tilemap in an OpenFL project, add `<haxelib name="tilemap" />` to your project.xml.
+To include Tilemap in an OpenFL project, add `<haxelib name="mapsheet" />` to your project.xml.
 
 ## Usage
 
