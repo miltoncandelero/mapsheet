@@ -1,8 +1,11 @@
 # Mapsheet
 
+## This library is outdated! Please use [Spritesheet](https://github.com/skylarkstudio/spritesheet) or AnimateCCAtlas (Coming soon tm)
+
 Essentially Mapsheet is an library that turns an spritesheet (or an image atlas) into an animation.
 
-_(Mapsheet is my implementation of the [Spritesheet](https://github.com/skylarkstudio/spritesheet) but taking advantage of OpenFL's Tilemap class.)_
+_~~(Mapsheet is my implementation of the [Spritesheet](https://github.com/skylarkstudio/spritesheet) but taking advantage of OpenFL's Tilemap class.)~~_   
+_([Spritesheet](https://github.com/skylarkstudio/spritesheet) now uses Tilemaps, you should use that)_
 
 ## Demo
 
